@@ -111,6 +111,10 @@ div#right h3 {
 	border-bottom-width: 3px;
 }
 
+div#right p {
+	font-size: 12px;
+}
+
 div#right ul {
 	list-style-position: inside;
 	margin-top: 0;
@@ -118,6 +122,3 @@ div#right ul {
 	margin-top: .5em;
 	padding-left: 0em;
 }
-
-
-
